@@ -1,6 +1,5 @@
 # Cloud-Exposure-Misconfiguration-Analysis-SAFE
 
-# ☁️ Cloud Exposure & Misconfiguration Analysis (Educational only)
 
 This repository provides a **structured, educational overview of cloud security fundamentals**
 with a focus on **attack surface awareness, misconfiguration risk, and defensive analysis**.
@@ -16,7 +15,7 @@ This repository intentionally avoids exploitation workflows and focuses on
 
 ---
 
-## 📚 Repository Content
+## Repository Content
 
 ### 01 — Fundamentals
 Introduces cloud concepts and security principles:
@@ -73,7 +72,7 @@ This repository emphasizes:
 
 ---
 
-## ⚖️ Legal & Ethical Disclaimer
+## Legal & Ethical Disclaimer
 
 **Educational and Defensive Use Only**
 
