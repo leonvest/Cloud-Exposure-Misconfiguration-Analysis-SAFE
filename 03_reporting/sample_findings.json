@@ -1,0 +1,16 @@
+{
+  "target": "lab-vm-01",
+  "timestamp": "2025-12-14T18:00:00Z",
+  "findings": [
+    {
+      "id": "F-001",
+      "title": "Service bound to all interfaces",
+      "severity": "Medium",
+      "evidence": [
+        "ss shows process X listening on 0.0.0.0:PORT"
+      ],
+      "impact": "Service may be reachable beyond intended scope depending on firewall rules.",
+      "recommendation": "Bind service to localhost/internal interface and restrict security group/firewall."
+    }
+  ]
+}
