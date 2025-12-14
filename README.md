@@ -4,12 +4,6 @@
 This repository provides a **structured, educational overview of cloud security fundamentals**
 with a focus on **attack surface awareness, misconfiguration risk, and defensive analysis**.
 
-The content is designed for:
-- students learning cloud security,
-- lab and CTF-style educational environments,
-- understanding *why* cloud systems become exposed,
-- and documenting findings in a professional, defensive manner.
-
 This repository intentionally avoids exploitation workflows and focuses on
 **analysis, reasoning, and remediation**.
 
