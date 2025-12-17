@@ -49,7 +49,7 @@ Common sources of cloud attack surface:
 
 Key idea:
 > Cloud incidents are often caused by misconfiguration or excessive permissions,
-> not “mystery hacks”.
+
 
 ---
 
